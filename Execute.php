@@ -6,7 +6,7 @@ require("spider/ShopCrawler.php");
  */
 
 //任意淘宝连接都可以解析出店铺id 一键爬取淘宝店铺所有信息
-$url = 'https://item.taobao.com/item.htm?spm=a230r.1.14.22.RiJEHt&id=540022708960&ns=1&abbucket=13#detail';
+$url = 'https://shop106503118.taobao.com/';
 
 $crawler  = new ShopCrawler();
 $reconnectCount = 3;//重连次数
