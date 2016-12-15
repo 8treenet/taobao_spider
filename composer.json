@@ -1,0 +1,6 @@
+{
+    "require": {
+        "imangazaliev/didom": "^1.8",
+        "bupt1987/html-parser": "^3.0"
+    }
+}
